@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orbitvu>
+  <sequence3d vangles="1" hangles="36" name="a_">
+    <scales>
+      <scale value="100.0" height="2000" width="2000" rows="2" tile_width="1000" tile_height="1000" cols="2"/>
+      <scale value="51.2" height="1024" width="1024" rows="1" tile_width="1024" tile_height="1024" cols="1"/>
+      <scale value="38.4" height="768" width="768" rows="1" tile_width="768" tile_height="768" cols="1"/>
+      <scale value="25.6" height="512" width="512" rows="1" tile_width="512" tile_height="512" cols="1"/>
+      <scale value="12.8" height="256" width="256" rows="1" tile_width="256" tile_height="256" cols="1"/>
+      <scale value="6.4" height="128" width="128" rows="1" tile_width="128" tile_height="128" cols="1"/>
+    </scales>
+    <images maxHeight="2000" maxWidth="2000" ext="jpg" name="a_"/>
+  </sequence3d>
+  <properties>
+    <property type="text" name="name">SPOXY003</property>
+    <property type="text" name="author"></property>
+    <property type="text" name="description"></property>
+    <property type="text" name="date">2024-02-05 10:37:22</property>
+    <property type="text" name="sku">SPOXY003</property>
+    <property type="text" name="Category 1"></property>
+    <property type="text" name="Category 2"></property>
+  </properties>
+</orbitvu>

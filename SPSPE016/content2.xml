@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orbitvu>
+  <sequence3d hangles="36" vangles="1" name="a_">
+    <scales>
+      <scale rows="2" height="2000" cols="2" tile_width="1000" value="100.0" tile_height="1000" width="2000"/>
+      <scale rows="1" height="1024" cols="1" tile_width="1024" value="51.2" tile_height="1024" width="1024"/>
+      <scale rows="1" height="768" cols="1" tile_width="768" value="38.4" tile_height="768" width="768"/>
+      <scale rows="1" height="512" cols="1" tile_width="512" value="25.6" tile_height="512" width="512"/>
+      <scale rows="1" height="256" cols="1" tile_width="256" value="12.8" tile_height="256" width="256"/>
+      <scale rows="1" height="128" cols="1" tile_width="128" value="6.4" tile_height="128" width="128"/>
+    </scales>
+    <images maxWidth="2000" ext="jpg" maxHeight="2000" name="a_"/>
+  </sequence3d>
+  <properties>
+    <property type="text" name="name">SPSPE016</property>
+    <property type="text" name="author"></property>
+    <property type="text" name="description"></property>
+    <property type="text" name="date">2024-02-06 09:25:01</property>
+    <property type="text" name="sku">SPSPE016</property>
+    <property type="text" name="Category 1"></property>
+    <property type="text" name="Category 2"></property>
+  </properties>
+</orbitvu>
